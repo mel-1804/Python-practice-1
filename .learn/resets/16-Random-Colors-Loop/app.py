@@ -20,7 +20,6 @@ def get_allStudentColors():
     example_color = get_color(1)
     students_array = []
     # ✅ ↓ your loop here ↓ ✅
-    for i in range(1, 10):
-        random.randint(0,3)
+    
 
 print(get_allStudentColors())
